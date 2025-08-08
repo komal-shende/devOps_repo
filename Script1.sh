@@ -5,4 +5,5 @@ echo "We are learning Git and GitHub"
 echo "How are you?"
 echo "Good Morning"
 echo "Good day "
-echo "welcome new day"
+echo "welcome new daygit "
+end if script 
